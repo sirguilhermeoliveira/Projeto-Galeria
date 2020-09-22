@@ -1,4 +1,5 @@
-Gif do Projeto:
+# Galeria
+## Desenvolvida em Bootstrap
 
 ![Alt Text](https://media.giphy.com/media/lR87LTPn4rN1JYJpkf/giphy.gif)
 
